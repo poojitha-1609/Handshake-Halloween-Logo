@@ -8,6 +8,16 @@
 
 > Made for the **“Dress the Handshake Logo for Halloween”** challenge.
 
+An AI-powered Halloween logo design challenge
+About the project
+A creative Halloween costume for the Handshake logo, made with ChatGPT image generation.
+
+Features
+- Witch hat and Halloween decorations
+- Orange and purple glowing effects
+- Original H shape and colors preserved as closely as possible
+Tools: ChatGPT · GitHub · GitHub Pages
+
 ## The design
 
 - **Keep the H recognizable:** preserve its central silhouette and dark teal color.
